@@ -1,0 +1,6 @@
+{
+  "name": "AI Home Stay Finder",
+  "description": "An AI-powered agent to help travelers find the perfect home stays based on their preferences. Describe what you're looking for, and the AI will generate a curated list of fictional properties.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
